@@ -1,10 +1,8 @@
 <h2 align="left">Hi 👋! My name is Luis and I'm a Systems Analysis and Development student from Brazil</h2>
-###
 
 <div align="center">
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -30,8 +28,5 @@
 
 ###
 
-<div align="left">
-  ![snake gif](https://github.com/luis1010100/luis1010100/blob/output/github-contribution-grid-snake.gif)
-</div>
-
+![snake gif](https://github.com/luis1010100/luis1010100/blob/output/github-contribution-grid-snake.gif)
 ###
