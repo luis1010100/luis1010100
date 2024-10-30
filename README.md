@@ -26,5 +26,6 @@
   </a>
 </div>
 
-![snake gif](https://github.com/luis1010100/luis1010100/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/luis1010100/luis1010100/blob/output/github-snake-dark.svg)
+
 
